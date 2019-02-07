@@ -1,0 +1,6 @@
+D:\Project\PHMS\ConsoleApplicationSolutions\ConsoleApplicationSample\bin\Debug\ConsoleApplicationSample.exe.config
+D:\Project\PHMS\ConsoleApplicationSolutions\ConsoleApplicationSample\bin\Debug\ConsoleApplicationSample.exe
+D:\Project\PHMS\ConsoleApplicationSolutions\ConsoleApplicationSample\bin\Debug\ConsoleApplicationSample.pdb
+D:\Project\PHMS\ConsoleApplicationSolutions\ConsoleApplicationSample\obj\Debug\ConsoleApplicationSample.csprojResolveAssemblyReference.cache
+D:\Project\PHMS\ConsoleApplicationSolutions\ConsoleApplicationSample\obj\Debug\ConsoleApplicationSample.exe
+D:\Project\PHMS\ConsoleApplicationSolutions\ConsoleApplicationSample\obj\Debug\ConsoleApplicationSample.pdb
